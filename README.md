@@ -59,11 +59,14 @@ Live Kubernetes Cluster (Kind)
 ### AI Root Cause Analysis
 ![RCA](assets/rca1.png)
 
+### Anomaly Detection with medium sensitivity
 ![Dashboard with medium anomaly sensitivity](assets/dashboard2.png)
 
 ### AI Root Cause Analysis
 ![RCA](assets/rca2.png)
 
+
+### Anomaly Detection with high sensitivity Dashboard
 ![Dashboard with high anomaly sensitivity](assets/dashboard3.png)
 
 ### AI Root Cause Analysis
