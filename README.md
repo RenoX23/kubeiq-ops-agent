@@ -54,11 +54,20 @@ Live Kubernetes Cluster (Kind)
 ## 📸 Screenshots
 
 ### Anomaly Detection Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard with low anomaly sensitivity](assets/dashboard1.png)
 
 ### AI Root Cause Analysis
-![RCA](assets/rca.png)
+![RCA](assets/rca1.png)
 
+![Dashboard with medium anomaly sensitivity](assets/dashboard2.png)
+
+### AI Root Cause Analysis
+![RCA](assets/rca2.png)
+
+![Dashboard with high anomaly sensitivity](assets/dashboard3.png)
+
+### AI Root Cause Analysis
+![RCA](assets/rca3.png)
 ---
 
 ## 🧪 Stress Test Demo
